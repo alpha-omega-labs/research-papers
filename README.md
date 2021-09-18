@@ -8,4 +8,6 @@ The following papers are used for developing Genesis L1 biomedical dapps:
 
 + Blockchain Applications in the Biomedical Domain: A Scoping Review: https://doi.org/10.1016/j.csbj.2019.01.010 https://github.com/alpha-omega-labs/research-papers/blob/main/1-s2.0-S200103701830285X-main.pdf
 
-+ Article: How Blockchain Companies Are Helping Us Protect Our Genomic Data https://www.labiotech.eu/in-depth/blockchain-control-genomic-data/
++ The Genesy Model for a Blockchain-Based Fair Ecosystem of Genomic Data: https://doi.org/10.3389/fbloc.2020.483227 https://github.com/alpha-omega-labs/research-papers/blob/main/fbloc-03-483227.pdf
+
++ Article: How Blockchain Companies Are Helping Us Protect Our Genomic Data: https://www.labiotech.eu/in-depth/blockchain-control-genomic-data/
