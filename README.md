@@ -1,5 +1,4 @@
-# Research papers
-The following papers are used for developing Genesis L1 biomedical dapps:
+# Research papers references
 
 
 + Using Ethereum blockchain to store and query pharmacogenomics data via smart contracts: https://doi.org/10.1186/s12920-020-00732-x https://github.com/alpha-omega-labs/research-papers/blob/main/s12920-020-00732-x.pdf
@@ -11,3 +10,5 @@ The following papers are used for developing Genesis L1 biomedical dapps:
 + The Genesy Model for a Blockchain-Based Fair Ecosystem of Genomic Data: https://doi.org/10.3389/fbloc.2020.483227 https://github.com/alpha-omega-labs/research-papers/blob/main/fbloc-03-483227.pdf
 
 + Article: How Blockchain Companies Are Helping Us Protect Our Genomic Data: https://www.labiotech.eu/in-depth/blockchain-control-genomic-data/
+
++ https://search.carrot2.org/#/search/pubmed/blockchain/treemap
